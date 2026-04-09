@@ -1,6 +1,6 @@
 {
-    "ip": "",
-    "port": 7777,
-    "online": false,
-    "message": "Сервер офлайн"
+    "ip": "6.tcp.eu.ngrok.io",
+    "port": 15836,
+    "online": true,
+    "message": "Сервер онлайн!"
 }
