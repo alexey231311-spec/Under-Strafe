@@ -1,5 +1,5 @@
 {
     "version": "1.0.0",
-    "download_url": "",
-    "changelog": "Первый релиз Under Strafe!"
+    "download_url": "https://github.com/alexey231311-spec/Under-Strafe/releases/download/v1.0.0/UnderStrafe.zip",
+    "changelog": "Первый релиз Under Strafe!\n- Лобби с командами\n- Kill feed\n- Scoreboard"
 }
